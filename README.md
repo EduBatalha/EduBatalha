@@ -24,8 +24,8 @@ Here are some things about me:
 
 ## Some of my work.
 <a href="https://github.com/EduBatalha/Pure-Java-8-API">
-  <img width="51%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=Pure-Java-8-API&theme=jolly&show_icons=true" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=Pure-Java-8-API&theme=jolly&show_icons=true" />
 </a>
 <a href="https://github.com/EduBatalha/AdressInfoVerificator">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=AdressInfoVerificator&theme=jolly&show_icons=true" />
+  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=AdressInfoVerificator&theme=jolly&show_icons=true" />
 </a>
