@@ -1,6 +1,6 @@
 # Hello, I am Eduardo Batalha 👋
 
-<img src="https://i.imgur.com/uWbN56m.gif" align="right">
+<img width="35%" src="https://i.imgur.com/uWbN56m.gif" align="right">
 I'm a System Analysis student and a fullstack developer.
 
 Here are some things about me:
@@ -24,8 +24,8 @@ Here are some things about me:
 
 ## Some of my work.
 <a href="https://github.com/EduBatalha/Pure-Java-8-API">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=Pure-Java-8-API&theme=jolly&show_icons=true" />
+  <img width="51%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=Pure-Java-8-API&theme=jolly&show_icons=true" />
 </a>
 <a href="https://github.com/EduBatalha/AdressInfoVerificator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=AdressInfoVerificator&theme=jolly&show_icons=true" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=AdressInfoVerificator&theme=jolly&show_icons=true" />
 </a>
