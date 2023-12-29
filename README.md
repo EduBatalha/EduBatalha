@@ -10,6 +10,11 @@ Here are some things about me:
 - 💻 I'm really passionate about new technologies.
 - 😃 Fun fact: I'm brazilian.<br/>
 
+## My portfolio.
+<a href="https://edubatalha.github.io/portfolio">
+<img width="15%" src="https://i.pinimg.com/originals/6a/b5/19/6ab5193fd83c03eca09a2a378a2db418.gif" align="center">
+</a>
+
 ## Technologies that I use.
 
 
