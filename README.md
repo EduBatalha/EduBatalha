@@ -31,7 +31,6 @@ I am a technology specialist with a solid background in Software Development and
 ## 📈 My Portfolio & Work
 <a href="https://edubatalha.github.io/portfolio">
   <img width="10%" src="https://i.pinimg.com/originals/6a/b5/19/6ab5193fd83c03eca09a2a378a2db418.gif" align="center">
-  **Click here to visit my Portfolio**
 </a>
 
 <br/>
