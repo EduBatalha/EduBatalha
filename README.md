@@ -33,15 +33,6 @@ I am a technology specialist with a solid background in Software Development and
   <img width="10%" src="https://i.pinimg.com/originals/6a/b5/19/6ab5193fd83c03eca09a2a378a2db418.gif" align="center">
 </a>
 
-<br/>
-
-<a href="https://github.com/EduBatalha/Pure-Java-8-API">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=Pure-Java-8-API&theme=jolly&show_icons=true" />
-</a>
-<a href="https://github.com/EduBatalha/AdressInfoVerificator">
-  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBatalha&repo=AdressInfoVerificator&theme=jolly&show_icons=true" />
-</a>
-
 ---
 
 ## 📫 Let's Connect!
